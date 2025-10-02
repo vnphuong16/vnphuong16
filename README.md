@@ -6,13 +6,11 @@
 
 ###
 
-<p align="left">
-  ✨ My name is _Phương_ 🐼<br>
-  📚 I'm currently learning DSA and Rust<br>
-  🎯 Goals: Become proficient in Modern C++<br>
-  🎲 Fun fact: I love collecting Console games and manga.<br>
+  ✨ My name is _Phương_ 🐼<br/>
+  📚 I'm currently learning _DSA_ and _Rust_<br/>
+  🎯 Goals: Become proficient in _Modern C++_<br/>
+  🎲 Fun fact: I love collecting Console games and manga.<br/>
   <img width="300px" align="right" src="https://raw.githubusercontent.com/vnphuong16/vnphuong16/main/Assets/code.gif" alt="programmer_gif"/>
-</p>
 
 ###
 
