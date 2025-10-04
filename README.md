@@ -60,6 +60,19 @@
 
 <h3 align="center">If interested in me, please follow me! ❤️</h3>
 
+## 🤝 Let's Collaborate
+
+I'm open to:
+
+- Freelance work / consulting opportunities
+- Open-source contributions
+
+📬 **Reach out** via [Telegram](https://t.me/vnphuong16) | [Email](mailto:vnphuong16@outlook.com)
+
+---
+
+_“Code with purpose. Build with trust.”_
+
 ###
 
 <div align="center">
